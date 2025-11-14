@@ -1,3 +1,11 @@
+<div align="center">
+  
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/74c20e88-f2fe-4b42-96e1-f7bc2d6346da" />
+
+
+</div>
+
+
 # Claude API Setup Guide
 
 ## Overview
