@@ -1,6 +1,21 @@
+<div align="center">
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e47ec1fe-be03-498a-ae2c-f8d33cf16cdc" />
+
 # Agentic AI Systems Masterclass: From LLM Chaos to Deterministic Workflows
 
-A hands-on course teaching practitioners how to debug, monitor, and optimize multi-agent AI systems in production environments.
+[![Course Status](https://img.shields.io/badge/Status-Enrolling%20Now-brightgreen?style=for-the-badge)](https://github.com/Javihaus/agents_observability_bootcamp#enrollment)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1.0-1C3C3C?style=for-the-badge)](https://langchain.com)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow?style=for-the-badge)](LICENSE)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
+[![Enroll Now](https://img.shields.io/badge/Enroll%20Now-Limited%20Spots%20Available-ff6b6b?style=for-the-badge)](https://github.com/Javihaus/agents_observability_bootcamp#enrollment)
+[![Email](https://img.shields.io/badge/Email-javier%40jmarin.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier@jmarin.info)
+
+---
+
+</div>
 
 ## Course Overview
 
