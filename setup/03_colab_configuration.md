@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/18bee391-663d-46e2-ba08-bfbeb859bd15" />
+
+</div>
+
 # Google Colab Configuration Guide
 
 ## Overview
