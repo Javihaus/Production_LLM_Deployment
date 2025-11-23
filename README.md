@@ -24,10 +24,11 @@
 ___
 </div>
 
-
+<div align="center">
 
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f7d72454-5fa4-4a14-9201-67a0259b4cbc" />
 
+</div>
 
 ## Course Overview
 
@@ -71,8 +72,12 @@ Organizations deploy large language models in production assuming benchmarks pre
 
 ___
 
+<div align="center">
+  
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c14e0783-541c-4f6e-84af-0560876480ee" />
 
+</div>
+  
 ## Prerequisites
 
 ### Technical Requirements
@@ -98,7 +103,11 @@ Students should budget approximately **$50-100** for API usage throughout the co
 
 ___
 
+<div align="center">
+
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/23dc2163-9975-4734-9bad-ec7ca88dd9d4" />
+
+</div>
 
 ## Course Schedule
 
@@ -146,7 +155,11 @@ See [CALENDAR.md](CALENDAR.md) for complete schedule including office hours.
 
 ___
 
+<div align="center">
+
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/47af1986-5798-48fd-85dc-5c782f83327d" />
+
+</div>
 
 ## Setup Instructions
 
@@ -161,7 +174,11 @@ Complete all setup steps before the first session:
 
 ___
 
+<div align="center">
+
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/16a77bf6-af29-4813-861a-01f63d59d068" />
+
+</div>
 
 ## Repository Structure
 ```
@@ -221,7 +238,11 @@ Alternatively, click the "Open in Colab" badge at the top of each notebook.
 
 ___
 
+<div align="center">
+
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a25a3b33-0677-40ca-b304-d8b829f082d0" />
+
+</div>
 
 ## Final Project
 
@@ -251,7 +272,11 @@ Students submit 6 major deliverables throughout the course:
 
 ___
 
+<div align="center">
+
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dac697bd-286a-4a0f-88fc-2ca52b454516" />
+
+</div>
 
 ## About the Instructor
 
@@ -309,8 +334,11 @@ ___
 
 ___
 
+<div align="center">
 
 <img width="80" height="123" alt="image" src="https://github.com/user-attachments/assets/cc04fe4b-ac6b-4279-aef9-d6355f5d639e" />
+
+</div>
 
 ## License
 
